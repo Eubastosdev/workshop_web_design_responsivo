@@ -50,6 +50,14 @@
     }
 }
 
+@media not all and (max-width: 600px) {
+
+    .menu-abrir,
+    .menu-fechar {
+        display: none;
+    }
+}
+
 
 header {
     padding: 0.5em 0;
